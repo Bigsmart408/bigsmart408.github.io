@@ -189,7 +189,7 @@ section .main-body h3 {
 
 section .main-body strong {
     color: var(--ink);
-    font-weight: 650;
+    font-weight: 700;
 }
 
 section .main-body code {
